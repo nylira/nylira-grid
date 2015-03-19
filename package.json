@@ -1,6 +1,6 @@
 {
   "name": "nylira-grid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple grid object.",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,8 @@
     "array"
   ],
   "author": "Peng Zhong",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nylira-2d-array": "^0.1.0"
+  }
 }

@@ -1,7 +1,7 @@
 (function() {
 'use strict'
 
-var TwoDArray = require('./TwoDArray')
+var TwoDArray = require('TwoDArray')
 
 function Grid(height, width){
   this.height = height !== undefined ? height : 10
