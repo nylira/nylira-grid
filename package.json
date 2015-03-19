@@ -1,6 +1,6 @@
 {
   "name": "nylira-grid",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Simple grid object.",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,14 @@
   "license": "MIT",
   "dependencies": {
     "nylira-2d-array": "^0.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nylira/nylira-grid"
+  },
+  "bugs": {
+    "url": "https://github.com/nylira/nylira-grid/issues"
+  },
+  "homepage": "https://github.com/nylira/nylira-grid"
 }
