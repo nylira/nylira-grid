@@ -1,0 +1,17 @@
+{
+  "name": "nylira-grid",
+  "version": "0.1.0",
+  "description": "Simple grid object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grid",
+    "2d",
+    "game",
+    "array"
+  ],
+  "author": "Peng Zhong",
+  "license": "MIT"
+}
