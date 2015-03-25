@@ -1,12 +1,12 @@
 (function() {
 'use strict'
 
-var TwoDArray = require('nylira-2d-array')
+var TwoDimensionalArray = require('nylira-2d-array')
 
 function Grid(height, width){
   this.height = height !== undefined ? height : 10
-  this.width = width !== undefined? width: height
-  this.cells = new TwoDArray(this.height, this.width)
+  this.width = width !== undefined? width: this.height
+  this.cells = new TwoDimensionalArray(this.height, this.width)
 }
 
 module.exports = Grid
